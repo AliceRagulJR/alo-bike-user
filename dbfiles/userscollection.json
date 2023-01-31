@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "62e129081fadb2c4f1a9e7ab"
+  },
+  "username": "wasim Akram",
+  "email": "janofarjahan2000@gmail.com",
+  "password": "jano",
+  "role": "Receptionist",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e26c1d24fbb1e886c6c911"
+  },
+  "username": "divakar",
+  "email": "divakar@gmail.com",
+  "password": "divakar",
+  "role": "admin",
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZGl2YWthciIsImVtYWlsIjoiZGl2YWthckBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2NTkwMDg5MzQsImV4cCI6MTY1OTA5NTMzNH0.fjLO61oMQAZ_xvZ3mpGy7FzTES57ZNTw9SH4VtG2ZVQ"
+},{
+  "_id": {
+    "$oid": "62e277c81e27376e19333d6f"
+  },
+  "username": "diva",
+  "email": "divakarc@gmail.com",
+  "password": "divakar",
+  "role": "admin",
+  "__v": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZGl2YSIsImVtYWlsIjoiZGl2YWthcmNAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjU5MDA5Mjc2LCJleHAiOjE2NTkwOTU2NzZ9.VJzF0rojaKz8oLdwlYOnIiA5H7v5uTyZM0O9b9TfMlQ"
+},{
+  "_id": {
+    "$oid": "62e7b99e54fd50967143ab9a"
+  },
+  "username": "wasim",
+  "email": "wasim@gmail.com",
+  "password": "$2b$10$bl7XnJ3LDJIPJy8QP7BHAegNqr2mgTvwoNmHrKrVNLpMH1ycABdPO",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea03b763e0be023a707d8a"
+  },
+  "username": "akram",
+  "email": "akram@gmail.com",
+  "password": "$2b$10$LmpPtinYvgIQEkZJPswkYOkvTsUps9Wxp4RT08eKb5TZMmiF4VHja",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eb6f458fa097f6fa14b536"
+  },
+  "username": "wasim Akram",
+  "email": "wasim@gmail.com",
+  "password": "$2b$10$JuqrZLe0QaKqejC6C45KS.KjOwyFOumjcXrNjfPOYPG6fnOhssv.y",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eca4628d71d40cac4f2661"
+  },
+  "username": "limran",
+  "email": "limran@gmail.com",
+  "password": "$2b$10$1w.lyNeHfcQtmufmJYG4MOI4tebjmEfEKxV/1xcty4tdy0/3SspR2",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eca5d3555f5e78c7b2ca75"
+  },
+  "username": "janofar",
+  "email": "janofar@gmail.com",
+  "password": "$2b$10$i.BFnNTO6UIfGNlFSfs5keZe5BTzRiWUxoB8q.oZH.1hfbnaxWIni",
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f21c175218162351f95a8e"
+  },
+  "username": "test",
+  "email": "test@gmail.com",
+  "password": "test",
+  "role": "admin",
+  "__v": 0
+}]
