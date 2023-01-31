@@ -1,0 +1,32 @@
+{
+  "name": "alocare-hms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --detectOpenHandles --runInBand --testTimeout=60000",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb-memory-server": "^8.8.0",
+    "mongoose": "^5.9.25",
+    "mongoose-paginate-v2": "^1.7.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "mockingoose": "^2.15.2",
+    "supertest": "^6.2.4"
+  }
+}
